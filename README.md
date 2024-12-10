@@ -11,3 +11,5 @@ A mental health support chatbot built with Streamlit and Google Gemini-Pro AI to
 2. Install required libraries:
    ```bash
    pip install streamlit google-generativeai python-dotenv
+
+Link to start - https://healthcarechatbotm.streamlit.app/
